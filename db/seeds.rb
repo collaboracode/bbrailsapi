@@ -38,7 +38,103 @@ guests = Guest.create([
     birthday: '',
     image_url: 'https://www.usmagazine.com/wp-content/uploads/2022/07/Big-Brother-24-Cast-Revealed-Meet-16-New-Houseguests-0015.jpg?quality=86&strip=all',
     active: true
-  }
+  },
+  {
+    first_name: 'Ameerah',
+    last_name: 'Jones',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-ameerah-jones-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Brittany',
+    last_name: 'Hoopes',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-brittany-hoopes-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Daniel',
+    last_name: 'Durston',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-daniel-durston-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Indy',
+    last_name: 'Santos',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-indy-santos-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Jasmine',
+    last_name: 'Davis',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-jasmine-davis-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Joe',
+    last_name: 'Pooch',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-joe-pooch-picciarelli.jpg',
+    active: true
+  },
+  {
+    first_name: 'Kyle',
+    last_name: 'Capener',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-kyle-capener-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Matthew',
+    last_name: 'Turner',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-matthew-turner-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Monte',
+    last_name: 'Taylor',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-monte-taylor-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Nicole',
+    last_name: 'Layog',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-nicole-layog-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Taylor',
+    last_name: 'Hale',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-taylor-hale-01.jpg',
+    active: true
+  },
+  {
+    first_name: 'Terrance',
+    last_name: 'Higgins',
+    bio: '',
+    birthday: '',
+    image_url: 'https://collaboracode.org/bbtemp/bb24-terrance-higgins.jpg',
+    active: true
+  },
 ])
 
 users = User.create([
