@@ -40,3 +40,14 @@ guests = Guest.create([
     active: true
   }
 ])
+
+users = User.create([
+  {
+    username: 'admin',
+    password: 'testing123!'
+  },
+  {
+    username: 'test',
+    password: 'testing123!'
+  }
+])
